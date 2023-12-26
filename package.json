@@ -1,0 +1,11 @@
+{
+  "name": "expolrar",
+  "version": "1.0.0",
+  "description": "only learning poit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Baldev",
+  "license": "ISC"
+}
